@@ -45,3 +45,4 @@ During the simulation, I identified several key indicators used by attackers to 
     * Confusing Channels: Receiving an SMS from a suspicious email address rather than a standard phone number.
 Practical Skill Developed:
 I practiced long-pressing links on my mobile device to reveal the true URL before clicking, which is the most effective defense against the "Scattered Spider" style tactics used in the M&S breach.
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/2e0130db-4a92-4602-94b2-dc2b4b33ee06" />
