@@ -29,3 +29,19 @@ The breach caused massive operational chaos and the exposure of personal data:
 * Exclusions: No passwords or usable payment card details were stolen.
 What was the outcome?
 The incident resulted in a £300 million hit to operating profits due to lost sales and recovery costs. M&S collaborated with the Metropolitan Police and the NCSC to restore systems, eventually resuming full digital services in August 2025. The company later faced multiple class-action lawsuits regarding the protection of customer data.
+
+Phishing Identification Simulation
+Tool Used: Google Jigsaw Phishing Quiz
+Simulation Goal: To identify malicious emails and SMS (Smishing) by analyzing technical red flags.
+Findings & Observations:
+During the simulation, I identified several key indicators used by attackers to deceive users:
+* URL & Domain Manipulation: I noticed the use of subdomains of trusted brands to create a false sense of security and fake URLs that looked legitimate at first glance but were slightly misspelled.
+* Link Masking: Attackers used redirects and TinyURL links to hide the actual destination of a malicious website.
+* Social Engineering Tactics:
+    * Urgency: Emails demanding I "change password immediately" to prevent account deletion.
+    * Baiting: "Too good to be true" offers used to lure clicks.
+* Technical Anomalies:
+    * Fake Display Names: The sender's name matched a trusted contact, but the underlying email address was unrelated.
+    * Confusing Channels: Receiving an SMS from a suspicious email address rather than a standard phone number.
+Practical Skill Developed:
+I practiced long-pressing links on my mobile device to reveal the true URL before clicking, which is the most effective defense against the "Scattered Spider" style tactics used in the M&S breach.
